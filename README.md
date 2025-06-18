@@ -115,9 +115,9 @@ I'm a **Full-Stack Developer** passionate about building modern, scalable web ap
 
 ## 📫 Let's Connect
 
-- 💼 **Portfolio:** [your-portfolio-url.com](https://keyrun.site)
-- 💌 **Email:** [your.email@example.com](mailto:kirannamawardev@gmailcom)
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/kirannamawardev)
+- 💼 **Portfolio:** [https://keyrun.site](https://keyrun.site)
+- 💌 **Email:** [kirannamawardev@gmail.com](mailto:kirannamawardev@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/kirannamawardev](https://linkedin.com/in/kirannamawardev)
 
 ---
 
