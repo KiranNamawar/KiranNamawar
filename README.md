@@ -12,12 +12,12 @@ I am a **Full Stack Developer** and a **BCA student at Manipal University Jaipur
 
 ### 💻 Tech Stack
 
-| Category     | Tools & Technologies                                                 |
-| :----------- | :------------------------------------------------------------------- |
-| **Frontend** | React, Redux, Context API, JavaScript, TypeScript, CSS, React Native |
-| **Backend**  | Node.js, Express.js, REST APIs, Socket.IO                            |
-| **Database** | MongoDB                                                              |
-| **Tools**    | Git, GitHub, Figma, ChatGPT & Generative AI Tools                    |
+| Category     | Tools & Technologies                                   |
+| :----------- | :----------------------------------------------------- |
+| **Frontend** | React, Redux, JavaScript, TypeScript, CSS, TailwindCSS |
+| **Backend**  | Node.js, Express.js, REST APIs                         |
+| **Database** | MongoDB                                                |
+| **Tools**    | Git, GitHub, Figma, Vim, Linux, Docker                 |
 
 ---
 
