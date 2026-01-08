@@ -23,19 +23,19 @@ I am a **Full Stack Developer** and a **BCA student at Manipal University Jaipur
 
 ### 📂 Featured Projects
 
-#### 📺 [YouTube-Inspired Platform](https://github.com/KiranNamawar)
+#### 📺 [YouTube-Inspired Platform](https://github.com/KiranNamawar/demo-mern-youtube-clone)
 
 - **Tech:** MERN Stack (MongoDB, Express, React, Node.js).
 - **Features:** Video uploads, user authentication (JWT), and interactive features like likes and comments.
 - **Key Achievement:** Integrated secure JWT authentication and ensured optimized user interaction.
 
-#### 🛒 [ShoppyGlobe: E-commerce Application](https://github.com/KiranNamawar)
+#### 🛒 [ShoppyGlobe: E-commerce Application](https://github.com/KiranNamawar/demo-shoppy-globe-backend)
 
 - **Tech:** React, Redux, Node.js, Express.js.
 - **Features:** Efficient state and cart management with RESTful APIs for product operations.
 - **Key Achievement:** Integrated REST APIs for real-time updates, optimizing performance across devices.
 
-#### 🌤️ [Weather Forecast Application](https://github.com/KiranNamawar)
+#### 🌤️ [Weather Forecast Application](https://github.com/KiranNamawar/weather)
 
 - **Tech:** JavaScript and third-party APIs.
 - **Key Achievement:** Implemented API caching and a modular architecture to enhance user experience.
@@ -66,7 +66,7 @@ I am a **Full Stack Developer** and a **BCA student at Manipal University Jaipur
 
 ### 📫 Connect with me
 
-- **Email:** kirannamawar@gmail.com
+- **Email:** <kirannamawar@gmail.com>
 - **GitHub:** [Kiran Namawar](https://github.com/KiranNamawar)
 - **Boot.dev:** [Kiran's Learning Path](https://www.boot.dev/u/kirannamawar)
 
