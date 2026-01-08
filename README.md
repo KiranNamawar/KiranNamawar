@@ -1,23 +1,23 @@
 # Hi there, I'm Kiran Namawar 👋
 
-[cite_start]I am a **Full Stack Developer** [cite: 5] [cite_start]and a **BCA student at Manipal University Jaipur**[cite: 7, 8]. [cite_start]I am dedicated to building user-centric, scalable, and maintainable solutions using modern web technologies[cite: 5].
+I am a **Full Stack Developer** and a **BCA student at Manipal University Jaipur**. I am dedicated to building user-centric, scalable, and maintainable solutions using modern web technologies like React, Node.js, and TypeScript.
 
 ### 🚀 What I'm Currently Working On
 
-- [cite_start]🎓 Completing **Full Stack Development** training at **Internshala**[cite: 15, 17].
-- [cite_start]🛠️ Building full-stack **MERN** applications with a focus on secure authentication and responsive UI[cite: 34, 35].
-- [cite_start]🧠 Strengthening my knowledge in **Data Structures and Algorithms (DSA)** in JavaScript[cite: 22].
+- 🎓 Completing **Full Stack Development** training at **Internshala**.
+- 🛠️ Building full-stack **MERN** applications with a focus on secure authentication and responsive UI.
+- 🧠 Strengthening my knowledge in **Data Structures and Algorithms (DSA)** in JavaScript.
 
 ---
 
 ### 💻 Tech Stack
 
-| Category     | Tools & Technologies                                                                                                    |
-| :----------- | :---------------------------------------------------------------------------------------------------------------------- |
-| **Frontend** | [cite_start]React, Redux, Context API, JavaScript, TypeScript, CSS, React Native [cite: 53, 62, 64, 70, 71, 72, 75, 77] |
-| **Backend**  | [cite_start]Node.js, Express.js, REST APIs, Socket.IO [cite: 54, 55, 57, 58, 60]                                        |
-| **Database** | [cite_start]MongoDB [cite: 63]                                                                                          |
-| **Tools**    | [cite_start]Git, GitHub, Figma, ChatGPT & Generative AI Tools [cite: 20, 68, 76]                                        |
+| Category     | Tools & Technologies                                                 |
+| :----------- | :------------------------------------------------------------------- |
+| **Frontend** | React, Redux, Context API, JavaScript, TypeScript, CSS, React Native |
+| **Backend**  | Node.js, Express.js, REST APIs, Socket.IO                            |
+| **Database** | MongoDB                                                              |
+| **Tools**    | Git, GitHub, Figma, ChatGPT & Generative AI Tools                    |
 
 ---
 
@@ -25,30 +25,30 @@
 
 #### 📺 [YouTube-Inspired Platform](https://github.com/KiranNamawar)
 
-- [cite_start]**Tech:** MERN Stack (MongoDB, Express, React, Node.js)[cite: 34].
-- [cite_start]**Features:** Video uploads, user authentication (JWT), and interactive features like likes and comments[cite: 34].
-- [cite_start]**Key Achievement:** Integrated secure JWT authentication and ensured optimized user interaction[cite: 35].
+- **Tech:** MERN Stack (MongoDB, Express, React, Node.js).
+- **Features:** Video uploads, user authentication (JWT), and interactive features like likes and comments.
+- **Key Achievement:** Integrated secure JWT authentication and ensured optimized user interaction.
 
 #### 🛒 [ShoppyGlobe: E-commerce Application](https://github.com/KiranNamawar)
 
-- [cite_start]**Tech:** React, Redux, Node.js, Express.js[cite: 38, 43].
-- [cite_start]**Features:** Efficient state and cart management with RESTful APIs for product operations[cite: 38, 45].
-- [cite_start]**Key Achievement:** Integrated REST APIs for real-time updates, optimizing performance across devices[cite: 39, 40].
+- **Tech:** React, Redux, Node.js, Express.js.
+- **Features:** Efficient state and cart management with RESTful APIs for product operations.
+- **Key Achievement:** Integrated REST APIs for real-time updates, optimizing performance across devices.
 
 #### 🌤️ [Weather Forecast Application](https://github.com/KiranNamawar)
 
-- [cite_start]**Tech:** JavaScript and third-party APIs[cite: 49].
-- [cite_start]**Key Achievement:** Implemented API caching and a modular architecture to enhance user experience[cite: 50, 51].
+- **Tech:** JavaScript and third-party APIs.
+- **Key Achievement:** Implemented API caching and a modular architecture to enhance user experience.
 
 ---
 
 ### 📊 Stats & Profiles
 
-[cite_start]![Kiran's LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/kirannamawar/) [cite: 27]
-[cite_start]![Kiran's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirannamawardev/) [cite: 3]
+[![Kiran's LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/kirannamawar/)
+[![Kiran's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirannamawardev/)
 
-- [cite_start]**Location:** Mumbai, India[cite: 2].
-- [cite_start]**Education:** Bachelor of Computer Applications (BCA), Manipal University Jaipur (2024-2027)[cite: 7, 8, 28].
+- **Location:** Mumbai, India.
+- **Education:** Bachelor of Computer Applications (BCA), Manipal University Jaipur (2024-2027).
 
 ---
 
@@ -83,7 +83,7 @@
 
 ### 📫 Connect with me
 
-- [cite_start]**Email:** kirannamawar@gmail.com [cite: 2]
-- [cite_start]**GitHub:** [Kiran Namawar](https://github.com/KiranNamawar) [cite: 26]
+- **Email:** kirannamawar@gmail.com
+- **GitHub:** [Kiran Namawar](https://github.com/KiranNamawar)
 
-[cite_start]_"Passionate and detail-oriented learner dedicated to building scalable solutions."_ [cite: 5]
+_"Passionate and detail-oriented learner dedicated to building scalable solutions."_
