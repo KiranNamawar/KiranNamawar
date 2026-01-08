@@ -52,23 +52,6 @@ I am a **Full Stack Developer** and a **BCA student at Manipal University Jaipur
 
 ---
 
-### 📉 GitHub Performance
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KiranNamawar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiranNamawar&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=320" alt="Top Languages" height="165">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KiranNamawar&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
-</div>
-
-#### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KiranNamawar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies">
-</div>
-
 #### 📈 Activity Graph
 
 <div align="center">
