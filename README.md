@@ -4,9 +4,9 @@ I am a **Full Stack Developer** and a **BCA student at Manipal University Jaipur
 
 ### 🚀 What I'm Currently Working On
 
-- 🎓 Completing **Full Stack Development** training at **Internshala**.
-- 🛠️ Building full-stack **MERN** applications with a focus on secure authentication and responsive UI.
-- 🧠 Strengthening my knowledge in **Data Structures and Algorithms (DSA)** in JavaScript.
+- Mastering Backend Engineering and Computer Science fundamentals on Boot.dev.
+- Building full-stack **MERN** applications with a focus on secure authentication and responsive UI.
+- Strengthening my knowledge in **Data Structures and Algorithms (DSA)** in JavaScript.
 
 ---
 
@@ -68,5 +68,5 @@ I am a **Full Stack Developer** and a **BCA student at Manipal University Jaipur
 
 - **Email:** kirannamawar@gmail.com
 - **GitHub:** [Kiran Namawar](https://github.com/KiranNamawar)
-
-_"Passionate and detail-oriented learner dedicated to building scalable solutions."_
+- **Boot.dev:** [Kiran's Learning Path](https://www.boot.dev/u/kirannamawar)
+  _"Passionate and detail-oriented learner dedicated to building scalable solutions."_
