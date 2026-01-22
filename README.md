@@ -47,6 +47,10 @@ I am a **Full Stack Developer** and a **BCA student at Manipal University Jaipur
 [![Kiran's LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/kirannamawar/)
 [![Kiran's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirannamawardev/)
 
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/bfea6c8a-47a4-456a-93c9-050bc675d34a/thumbnail" >
+</p>
+
 - **Location:** Mumbai, India.
 - **Education:** Bachelor of Computer Applications (BCA), Manipal University Jaipur (2024-2027).
 
