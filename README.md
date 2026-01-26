@@ -52,7 +52,7 @@ I am a **Full Stack Developer** and a **BCA student at Manipal University Jaipur
 </p>
 
 - **Location:** Mumbai, India.
-- **Education:** Bachelor of Computer Applications (BCA), Manipal University Jaipur (2024-2027).
+- **Education:** Bachelor of Computer Applications (BCA), Manipal University Jaipur.
 
 ---
 
